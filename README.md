@@ -1,6 +1,12 @@
 # Dota2ex
 
-**TODO: Add description**
+Dota 2 elixir helpers.
+
+### Features:
+- get match data by ID
+- get matches list by params
+- get live matches
+- *heroes, abilities, items and patches info (soon)*
 
 ## Installation
 
