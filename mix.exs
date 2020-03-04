@@ -30,8 +30,7 @@ defmodule Dota2ex.MixProject do
   defp deps do
     [
       {:httpoison, "~> 1.6"},
-      {:jason, "~> 1.1"},
-      {:json, "~> 1.2"}
+      {:jason, "~> 1.1"}
     ]
   end
 
